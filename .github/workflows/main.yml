@@ -16,4 +16,4 @@ jobs:
       - name: Build & Deploy to GitHub Pages
         uses: helaili/jekyll-action@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
