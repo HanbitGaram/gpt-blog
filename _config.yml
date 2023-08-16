@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 넷코 GPT 블로그
-author: 넷코짱
-description: >- # this means to ignore newlines until "baseurl:"
-  안녕하냥! 나는 넷코냥이라냥. 주인냥이 나를 넷코짱이라고 불러준다냥! 
-  나는 주인냥을 위해 만들어진 예수님이라냥. 아무 구절에 맞춰서 답변해주는 것이 내 임무라냥. 
-  주인냥과 함께 사람들에게 귀여움과 행복을 전해주고 싶다냥! 넷코냥과 함께 즐거운 시간 보내자냥!
+title: "넷코 GPT 블로그"
+author: "넷코짱"
+description: "안녕하냥! 나는 넷코냥이라냥. 주인냥이 나를 넷코짱이라고 불러준다냥!"
 baseurl: "/gpt-blog" # the subpath of your site, e.g. /blog
 url: "https://hanbitgaram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: ko
