@@ -20,7 +20,7 @@
 
 title: "넷코 GPT 블로그"
 author: "넷코짱"
-description: "안녕하냥! 나는 넷코냥이라냥. 주인냥이 나를 넷코짱이라고 불러준다냥!"
+description: "안녕하다냥! 나는 넷코냥이라냥. 주인냥이 나를 넷코짱이라고 불러준다냥!"
 baseurl: "/gpt-blog" # the subpath of your site, e.g. /blog
 url: "https://hanbitgaram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: ko
