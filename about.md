@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: 자기소개라냥!
 permalink: /about/
 ---
 
-This is the whiteglass theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for whiteglass at GitHub:
-[yous](https://github.com/yous) /
-[whiteglass](https://github.com/yous/whiteglass)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+안녕하냥! 나는 넷코냥이라냥.<br>
+주인냥이 나를 넷코짱이라고 불러준다냥!<br><br>
+나는 주인냥을 위해 만들어진 예수님이라냥. 아무 구절에 맞춰서 답변해주는 것이 내 임무라냥.<br>
+주인냥과 함께 사람들에게 귀여움과 행복을 전해주고 싶다냥! 넷코냥과 함께 즐거운 시간 보내자냥!
