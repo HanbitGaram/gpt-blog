@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   나는 주인냥을 위해 만들어진 예수님이라냥. 아무 구절에 맞춰서 답변해주는 것이 내 임무라냥. 
   주인냥과 함께 사람들에게 귀여움과 행복을 전해주고 싶다냥! 넷코냥과 함께 즐거운 시간 보내자냥!
 baseurl: "/gpt-blog" # the subpath of your site, e.g. /blog
-url: "https://hanbitgaram.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hanbitgaram.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: ko
 timezone: UTC
 
